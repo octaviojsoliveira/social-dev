@@ -1,0 +1,14 @@
+import { colors } from "@material-ui/core";
+
+export default {
+  primary: {
+    dark: colors.blueGrey["900"],
+    main: colors.blueGrey["500"],
+    light: colors.blueGrey["400"],
+  },
+  secondary: {
+    dark: colors.green["A700"],
+    main: colors.green["A700"],
+    light: colors.green["A700"],
+  },
+};

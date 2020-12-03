@@ -1,0 +1,1 @@
+{"ast":null,"code":"export*from'./userMock';export*from'./notificationsMock';","map":{"version":3,"sources":["E:/DEV/Projeto-Social-Dev/src/mock/index.js"],"names":[],"mappings":"AAAA,WAAc,YAAd,CACA,WAAc,qBAAd","sourcesContent":["export * from './userMock';\r\nexport * from './notificationsMock';"]},"metadata":{},"sourceType":"module"}
